@@ -37,7 +37,6 @@
       </ul>
     </div>
   </nav>
-  <iframe src="/shop"></iframe>
   <aside id="hero" class="hero">
     Welcome to Wombat Coffee Roasters! We are
     passionate about our craft, striving to bring you
